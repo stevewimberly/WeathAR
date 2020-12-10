@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1015876228112",
+    "firebase_url": "https://weathar-9073c.firebaseio.com",
+    "project_id": "weathar-9073c",
+    "storage_bucket": "weathar-9073c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015876228112:android:434d4eef653d580566e695",
+        "android_client_info": {
+          "package_name": "com.weathar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015876228112-j1491qljdj54o171032vtp95sk5406sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weathar",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1015876228112-ps3t02bjkarpf7cesjc0lutif0as8ruj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weathar",
+            "certificate_hash": "264196d3e8651608fc3fb9357a8e291ec8f92132"
+          }
+        },
+        {
+          "client_id": "1015876228112-n2qfeh9ntckgikvtmecjsgvmtpk5jv6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicPEX3zFSwVPddGIRg8QBnyKV4OWK82o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015876228112-n2qfeh9ntckgikvtmecjsgvmtpk5jv6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015876228112-ms7jjtpevvqv0cdir45g9go8bfi28nn9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.weathAr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

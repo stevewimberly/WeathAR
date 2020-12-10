@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weathAr</string>
+    <string name="facebook_app_id">3577913318919102</string>
+    <string name="fb_login_protocol_scheme">fb3577913318919102</string>
+    <!-- <string name="facebook_app_id">378083250078534</string>
+    <string name="fb_login_protocol_scheme">fb378083250078534</string> -->
+
+</resources>
